@@ -47,3 +47,31 @@ A valid PAN number must:
 - **Last character** → Alphabet (A–Z)  
 
 📌 **Example of a valid PAN:**  
+
+---
+
+## 📂 Categorisation  
+
+- **Valid PAN** → Matches all format rules  
+- **Invalid PAN** → Incorrect format, incomplete, or contains non-alphanumeric characters  
+
+---
+
+## 📊 Summary Report  
+
+The final output will include:  
+- **Total records processed**  
+- **Total valid PANs**  
+- **Total invalid PANs**  
+- **Total missing or incomplete PANs** (if any)  
+
+---
+
+## 🚀 Tasks  
+
+- [ ] Clean and preprocess the dataset  
+- [ ] Validate PAN numbers using rules  
+- [ ] Categorize PANs into Valid/Invalid  
+- [ ] Generate summary report  
+
+---
